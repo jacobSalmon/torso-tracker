@@ -10,9 +10,6 @@ const port = 3000;
 const gmailUser = process.env.GMAIL_USER;
 const gmailPass = process.env.GMAIL_PASS;
 
-console.log('gmailUser: ', gmailUser);
-console.log('gmailPass: ', gmailPass);
-
 
 // URL of the product page
 const url = 'https://torsoelectronics.com/products/t-1-algorithmic-sequencer';
